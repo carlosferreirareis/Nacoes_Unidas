@@ -1,0 +1,708 @@
+INDICADOR,PAIS,ANO,VALOR,UNIDADE
+Current number of seats in national parliaments,World,2021,38732,NUMBER
+Current number of seats in national parliaments,World,2022,38435,NUMBER
+Current number of seats in national parliaments,World,2023,37423,NUMBER
+Current number of seats in national parliaments,Africa,2021,10510,NUMBER
+Current number of seats in national parliaments,Africa,2022,10449,NUMBER
+Current number of seats in national parliaments,Africa,2023,10352,NUMBER
+Current number of seats in national parliaments,Afghanistan,2021,248,NUMBER
+Current number of seats in national parliaments,Afghanistan,2022,248,NUMBER
+Current number of seats in national parliaments,Afghanistan,2023,,NUMBER
+Current number of seats in national parliaments,South America,2021,1959,NUMBER
+Current number of seats in national parliaments,South America,2022,1789,NUMBER
+Current number of seats in national parliaments,South America,2023,1809,NUMBER
+Current number of seats in national parliaments,Albania,2021,122,NUMBER
+Current number of seats in national parliaments,Albania,2022,140,NUMBER
+Current number of seats in national parliaments,Albania,2023,140,NUMBER
+Current number of seats in national parliaments,Oceania,2021,755,NUMBER
+Current number of seats in national parliaments,Oceania,2022,756,NUMBER
+Current number of seats in national parliaments,Oceania,2023,768,NUMBER
+Current number of seats in national parliaments,Western Africa,2021,2361,NUMBER
+Current number of seats in national parliaments,Western Africa,2022,2324,NUMBER
+Current number of seats in national parliaments,Western Africa,2023,2324,NUMBER
+Current number of seats in national parliaments,Algeria,2021,462,NUMBER
+Current number of seats in national parliaments,Algeria,2022,407,NUMBER
+Current number of seats in national parliaments,Algeria,2023,407,NUMBER
+Current number of seats in national parliaments,Central America,2021,1123,NUMBER
+Current number of seats in national parliaments,Central America,2022,1123,NUMBER
+Current number of seats in national parliaments,Central America,2023,1123,NUMBER
+Current number of seats in national parliaments,Eastern Africa,2021,3891,NUMBER
+Current number of seats in national parliaments,Eastern Africa,2022,4010,NUMBER
+Current number of seats in national parliaments,Eastern Africa,2023,4016,NUMBER
+Current number of seats in national parliaments,Northern Africa,2021,1853,NUMBER
+Current number of seats in national parliaments,Northern Africa,2022,1781,NUMBER
+Current number of seats in national parliaments,Northern Africa,2023,1564,NUMBER
+Current number of seats in national parliaments,Middle Africa,2021,1644,NUMBER
+Current number of seats in national parliaments,Middle Africa,2022,1582,NUMBER
+Current number of seats in national parliaments,Middle Africa,2023,1686,NUMBER
+Current number of seats in national parliaments,Southern Africa,2021,761,NUMBER
+Current number of seats in national parliaments,Southern Africa,2022,752,NUMBER
+Current number of seats in national parliaments,Southern Africa,2023,762,NUMBER
+Current number of seats in national parliaments,Americas,2021,4922,NUMBER
+Current number of seats in national parliaments,Americas,2022,4754,NUMBER
+Current number of seats in national parliaments,Americas,2023,4774,NUMBER
+Current number of seats in national parliaments,Andorra,2021,28,NUMBER
+Current number of seats in national parliaments,Andorra,2022,28,NUMBER
+Current number of seats in national parliaments,Andorra,2023,28,NUMBER
+Current number of seats in national parliaments,Northern America,2021,769,NUMBER
+Current number of seats in national parliaments,Northern America,2022,771,NUMBER
+Current number of seats in national parliaments,Northern America,2023,770,NUMBER
+Current number of seats in national parliaments,Angola,2021,220,NUMBER
+Current number of seats in national parliaments,Angola,2022,220,NUMBER
+Current number of seats in national parliaments,Angola,2023,220,NUMBER
+Current number of seats in national parliaments,Antigua and Barbuda,2021,18,NUMBER
+Current number of seats in national parliaments,Antigua and Barbuda,2022,18,NUMBER
+Current number of seats in national parliaments,Antigua and Barbuda,2023,18,NUMBER
+Current number of seats in national parliaments,Caribbean,2021,1071,NUMBER
+Current number of seats in national parliaments,Caribbean,2022,1071,NUMBER
+Current number of seats in national parliaments,Caribbean,2023,1072,NUMBER
+Current number of seats in national parliaments,Eastern Asia,2021,4501,NUMBER
+Current number of seats in national parliaments,Eastern Asia,2022,4498,NUMBER
+Current number of seats in national parliaments,Eastern Asia,2023,4499,NUMBER
+Current number of seats in national parliaments,Azerbaijan,2021,121,NUMBER
+Current number of seats in national parliaments,Azerbaijan,2022,120,NUMBER
+Current number of seats in national parliaments,Azerbaijan,2023,118,NUMBER
+Current number of seats in national parliaments,Argentina,2021,257,NUMBER
+Current number of seats in national parliaments,Argentina,2022,257,NUMBER
+Current number of seats in national parliaments,Argentina,2023,257,NUMBER
+Current number of seats in national parliaments,Southern Asia,2021,2398,NUMBER
+Current number of seats in national parliaments,Southern Asia,2022,2397,NUMBER
+Current number of seats in national parliaments,Southern Asia,2023,2153,NUMBER
+Current number of seats in national parliaments,South,2021,2976,NUMBER
+Current number of seats in national parliaments,South,2022,3005,NUMBER
+Current number of seats in national parliaments,South,2023,2543,NUMBER
+Current number of seats in national parliaments,Australia,2021,151,NUMBER
+Current number of seats in national parliaments,Australia,2022,151,NUMBER
+Current number of seats in national parliaments,Australia,2023,151,NUMBER
+Current number of seats in national parliaments,Southern Europe,2021,2521,NUMBER
+Current number of seats in national parliaments,Southern Europe,2022,2537,NUMBER
+Current number of seats in national parliaments,Southern Europe,2023,2320,NUMBER
+Current number of seats in national parliaments,Austria,2021,183,NUMBER
+Current number of seats in national parliaments,Austria,2022,183,NUMBER
+Current number of seats in national parliaments,Austria,2023,183,NUMBER
+Current number of seats in national parliaments,Bahamas,2021,39,NUMBER
+Current number of seats in national parliaments,Bahamas,2022,39,NUMBER
+Current number of seats in national parliaments,Bahamas,2023,39,NUMBER
+Current number of seats in national parliaments,Bahrain,2021,40,NUMBER
+Current number of seats in national parliaments,Bahrain,2022,40,NUMBER
+Current number of seats in national parliaments,Bahrain,2023,40,NUMBER
+Current number of seats in national parliaments,Bangladesh,2021,350,NUMBER
+Current number of seats in national parliaments,Bangladesh,2022,350,NUMBER
+Current number of seats in national parliaments,Bangladesh,2023,350,NUMBER
+Current number of seats in national parliaments,Armenia,2021,132,NUMBER
+Current number of seats in national parliaments,Armenia,2022,107,NUMBER
+Current number of seats in national parliaments,Armenia,2023,107,NUMBER
+Current number of seats in national parliaments,Barbados,2021,30,NUMBER
+Current number of seats in national parliaments,Barbados,2022,30,NUMBER
+Current number of seats in national parliaments,Barbados,2023,30,NUMBER
+Current number of seats in national parliaments,Australia and New Zealand,2021,271,NUMBER
+Current number of seats in national parliaments,Australia and New Zealand,2022,271,NUMBER
+Current number of seats in national parliaments,Australia and New Zealand,2023,271,NUMBER
+Current number of seats in national parliaments,Melanesia,2021,264,NUMBER
+Current number of seats in national parliaments,Melanesia,2022,264,NUMBER
+Current number of seats in national parliaments,Melanesia,2023,272,NUMBER
+Current number of seats in national parliaments,Belgium,2021,150,NUMBER
+Current number of seats in national parliaments,Belgium,2022,150,NUMBER
+Current number of seats in national parliaments,Belgium,2023,150,NUMBER
+Current number of seats in national parliaments,Micronesia,2021,127,NUMBER
+Current number of seats in national parliaments,Micronesia,2022,127,NUMBER
+Current number of seats in national parliaments,Micronesia,2023,127,NUMBER
+Current number of seats in national parliaments,Polynesia,2021,93,NUMBER
+Current number of seats in national parliaments,Polynesia,2022,94,NUMBER
+Current number of seats in national parliaments,Polynesia,2023,98,NUMBER
+Current number of seats in national parliaments,Central and Southern Asia,2021,2956,NUMBER
+Current number of seats in national parliaments,Central and Southern Asia,2022,2914,NUMBER
+Current number of seats in national parliaments,Central and Southern Asia,2023,2668,NUMBER
+Current number of seats in national parliaments,Bhutan,2021,47,NUMBER
+Current number of seats in national parliaments,Bhutan,2022,46,NUMBER
+Current number of seats in national parliaments,Bhutan,2023,46,NUMBER
+Current number of seats in national parliaments,Bolivia ,2021,130,NUMBER
+Current number of seats in national parliaments,Bolivia ,2022,130,NUMBER
+Current number of seats in national parliaments,Bolivia ,2023,130,NUMBER
+Current number of seats in national parliaments,Bosnia and Herzegovina,2021,42,NUMBER
+Current number of seats in national parliaments,Bosnia and Herzegovina,2022,42,NUMBER
+Current number of seats in national parliaments,Bosnia and Herzegovina,2023,42,NUMBER
+Current number of seats in national parliaments,Botswana,2021,65,NUMBER
+Current number of seats in national parliaments,Botswana,2022,63,NUMBER
+Current number of seats in national parliaments,Botswana,2023,63,NUMBER
+Current number of seats in national parliaments,Brazil,2021,513,NUMBER
+Current number of seats in national parliaments,Brazil,2022,513,NUMBER
+Current number of seats in national parliaments,Brazil,2023,513,NUMBER
+Current number of seats in national parliaments,Belize,2021,32,NUMBER
+Current number of seats in national parliaments,Belize,2022,32,NUMBER
+Current number of seats in national parliaments,Belize,2023,32,NUMBER
+Current number of seats in national parliaments,Solomon Islands,2021,50,NUMBER
+Current number of seats in national parliaments,Solomon Islands,2022,50,NUMBER
+Current number of seats in national parliaments,Solomon Islands,2023,50,NUMBER
+Current number of seats in national parliaments,Brunei Darussalam,2021,33,NUMBER
+Current number of seats in national parliaments,Brunei Darussalam,2022,33,NUMBER
+Current number of seats in national parliaments,Brunei Darussalam,2023,34,NUMBER
+Current number of seats in national parliaments,Bulgaria,2021,240,NUMBER
+Current number of seats in national parliaments,Bulgaria,2022,240,NUMBER
+Current number of seats in national parliaments,Bulgaria,2023,240,NUMBER
+Current number of seats in national parliaments,Myanmar,2021,425,NUMBER
+Current number of seats in national parliaments,Myanmar,2022,425,NUMBER
+Current number of seats in national parliaments,Myanmar,2023,,NUMBER
+Current number of seats in national parliaments,Burundi,2021,123,NUMBER
+Current number of seats in national parliaments,Burundi,2022,123,NUMBER
+Current number of seats in national parliaments,Burundi,2023,123,NUMBER
+Current number of seats in national parliaments,Belarus,2021,110,NUMBER
+Current number of seats in national parliaments,Belarus,2022,110,NUMBER
+Current number of seats in national parliaments,Belarus,2023,110,NUMBER
+Current number of seats in national parliaments,Cambodia,2021,125,NUMBER
+Current number of seats in national parliaments,Cambodia,2022,125,NUMBER
+Current number of seats in national parliaments,Cambodia,2023,125,NUMBER
+Current number of seats in national parliaments,Cameroon,2021,180,NUMBER
+Current number of seats in national parliaments,Cameroon,2022,180,NUMBER
+Current number of seats in national parliaments,Cameroon,2023,180,NUMBER
+Current number of seats in national parliaments,Canada,2021,338,NUMBER
+Current number of seats in national parliaments,Canada,2022,338,NUMBER
+Current number of seats in national parliaments,Canada,2023,336,NUMBER
+Current number of seats in national parliaments,Cabo Verde,2021,72,NUMBER
+Current number of seats in national parliaments,Cabo Verde,2022,72,NUMBER
+Current number of seats in national parliaments,Cabo Verde,2023,72,NUMBER
+Current number of seats in national parliaments,Caucasus and Central Asia,2021,961,NUMBER
+Current number of seats in national parliaments,Caucasus and Central Asia,2022,891,NUMBER
+Current number of seats in national parliaments,Central African Republic,2021,140,NUMBER
+Current number of seats in national parliaments,Central African Republic,2022,140,NUMBER
+Current number of seats in national parliaments,Central African Republic,2023,140,NUMBER
+Current number of seats in national parliaments,Asia,2021,13173,NUMBER
+Current number of seats in national parliaments,Asia,2022,13060,NUMBER
+Current number of seats in national parliaments,Asia,2023,12340,NUMBER
+Current number of seats in national parliaments,Central Asia,2021,558,NUMBER
+Current number of seats in national parliaments,Central Asia,2022,517,NUMBER
+Current number of seats in national parliaments,Central Asia,2023,515,NUMBER
+Current number of seats in national parliaments,Sri Lanka,2021,223,NUMBER
+Current number of seats in national parliaments,Sri Lanka,2022,225,NUMBER
+Current number of seats in national parliaments,Sri Lanka,2023,225,NUMBER
+Current number of seats in national parliaments,Western Asia,2021,2740,NUMBER
+Current number of seats in national parliaments,Western Asia,2022,2643,NUMBER
+Current number of seats in national parliaments,Western Asia,2023,2630,NUMBER
+Current number of seats in national parliaments,Chad,2021,156,NUMBER
+Current number of seats in national parliaments,Chad,2022,93,NUMBER
+Current number of seats in national parliaments,Chad,2023,197,NUMBER
+Current number of seats in national parliaments,Europe,2021,9372,NUMBER
+Current number of seats in national parliaments,Europe,2022,9416,NUMBER
+Current number of seats in national parliaments,Europe,2023,9189,NUMBER
+Current number of seats in national parliaments,Eastern Europe,2021,2661,NUMBER
+Current number of seats in national parliaments,Eastern Europe,2022,2663,NUMBER
+Current number of seats in national parliaments,Eastern Europe,2023,2656,NUMBER
+Current number of seats in national parliaments,Chile,2021,155,NUMBER
+Current number of seats in national parliaments,Chile,2022,155,NUMBER
+Current number of seats in national parliaments,Chile,2023,155,NUMBER
+Current number of seats in national parliaments,Northern Europe,2021,2112,NUMBER
+Current number of seats in national parliaments,Northern Europe,2022,2111,NUMBER
+Current number of seats in national parliaments,Northern Europe,2023,2111,NUMBER
+Current number of seats in national parliaments,Western Europe,2021,2078,NUMBER
+Current number of seats in national parliaments,Western Europe,2022,2105,NUMBER
+Current number of seats in national parliaments,Western Europe,2023,2102,NUMBER
+Current number of seats in national parliaments,China,2021,2975,NUMBER
+Current number of seats in national parliaments,China,2022,2975,NUMBER
+Current number of seats in national parliaments,China,2023,2975,NUMBER
+Current number of seats in national parliaments,Colombia,2021,170,NUMBER
+Current number of seats in national parliaments,Colombia,2022,167,NUMBER
+Current number of seats in national parliaments,Colombia,2023,187,NUMBER
+Current number of seats in national parliaments,Comoros,2021,24,NUMBER
+Current number of seats in national parliaments,Comoros,2022,24,NUMBER
+Current number of seats in national parliaments,Comoros,2023,24,NUMBER
+Current number of seats in national parliaments,Congo,2021,151,NUMBER
+Current number of seats in national parliaments,Congo,2022,151,NUMBER
+Current number of seats in national parliaments,Congo,2023,151,NUMBER
+Current number of seats in national parliaments,Democratic Republic of the Congo,2021,500,NUMBER
+Current number of seats in national parliaments,Democratic Republic of the Congo,2022,500,NUMBER
+Current number of seats in national parliaments,Democratic Republic of the Congo,2023,500,NUMBER
+Current number of seats in national parliaments,Costa Rica,2021,57,NUMBER
+Current number of seats in national parliaments,Costa Rica,2022,57,NUMBER
+Current number of seats in national parliaments,Costa Rica,2023,57,NUMBER
+Current number of seats in national parliaments,Croatia,2021,151,NUMBER
+Current number of seats in national parliaments,Croatia,2022,151,NUMBER
+Current number of seats in national parliaments,Croatia,2023,151,NUMBER
+Current number of seats in national parliaments,Cuba,2021,586,NUMBER
+Current number of seats in national parliaments,Cuba,2022,586,NUMBER
+Current number of seats in national parliaments,Cuba,2023,586,NUMBER
+Current number of seats in national parliaments,Cyprus,2021,56,NUMBER
+Current number of seats in national parliaments,Cyprus,2022,56,NUMBER
+Current number of seats in national parliaments,Cyprus,2023,56,NUMBER
+Current number of seats in national parliaments,Least Developed Countries ,2021,7855,NUMBER
+Current number of seats in national parliaments,Least Developed Countries ,2022,7831,NUMBER
+Current number of seats in national parliaments,Least Developed Countries ,2023,7274,NUMBER
+Current number of seats in national parliaments,Sub,2021,8657,NUMBER
+Current number of seats in national parliaments,Sub,2022,8668,NUMBER
+Current number of seats in national parliaments,Sub,2023,8788,NUMBER
+Current number of seats in national parliaments,Czechia,2021,200,NUMBER
+Current number of seats in national parliaments,Czechia,2022,200,NUMBER
+Current number of seats in national parliaments,Czechia,2023,200,NUMBER
+Current number of seats in national parliaments,Benin,2021,83,NUMBER
+Current number of seats in national parliaments,Benin,2022,81,NUMBER
+Current number of seats in national parliaments,Benin,2023,109,NUMBER
+Current number of seats in national parliaments,Denmark,2021,179,NUMBER
+Current number of seats in national parliaments,Denmark,2022,179,NUMBER
+Current number of seats in national parliaments,Denmark,2023,179,NUMBER
+Current number of seats in national parliaments,Dominica,2021,32,NUMBER
+Current number of seats in national parliaments,Dominica,2022,32,NUMBER
+Current number of seats in national parliaments,Dominica,2023,32,NUMBER
+Current number of seats in national parliaments,Dominican Republic,2021,190,NUMBER
+Current number of seats in national parliaments,Dominican Republic,2022,190,NUMBER
+Current number of seats in national parliaments,Dominican Republic,2023,190,NUMBER
+Current number of seats in national parliaments,Ecuador,2021,137,NUMBER
+Current number of seats in national parliaments,Ecuador,2022,137,NUMBER
+Current number of seats in national parliaments,Ecuador,2023,137,NUMBER
+Current number of seats in national parliaments,El Salvador,2021,84,NUMBER
+Current number of seats in national parliaments,El Salvador,2022,84,NUMBER
+Current number of seats in national parliaments,El Salvador,2023,84,NUMBER
+Current number of seats in national parliaments,Equatorial Guinea,2021,100,NUMBER
+Current number of seats in national parliaments,Equatorial Guinea,2022,100,NUMBER
+Current number of seats in national parliaments,Equatorial Guinea,2023,100,NUMBER
+Current number of seats in national parliaments,Ethiopia,2021,547,NUMBER
+Current number of seats in national parliaments,Ethiopia,2022,470,NUMBER
+Current number of seats in national parliaments,Ethiopia,2023,472,NUMBER
+Current number of seats in national parliaments,Eritrea,2022,,NUMBER
+Current number of seats in national parliaments,Eritrea,2023,,NUMBER
+Current number of seats in national parliaments,Estonia,2021,101,NUMBER
+Current number of seats in national parliaments,Estonia,2022,101,NUMBER
+Current number of seats in national parliaments,Estonia,2023,101,NUMBER
+Current number of seats in national parliaments,Fiji,2021,51,NUMBER
+Current number of seats in national parliaments,Fiji,2022,51,NUMBER
+Current number of seats in national parliaments,Fiji,2023,55,NUMBER
+Current number of seats in national parliaments,Finland,2021,200,NUMBER
+Current number of seats in national parliaments,Finland,2022,200,NUMBER
+Current number of seats in national parliaments,Finland,2023,200,NUMBER
+Current number of seats in national parliaments,France,2021,577,NUMBER
+Current number of seats in national parliaments,France,2022,577,NUMBER
+Current number of seats in national parliaments,France,2023,577,NUMBER
+Current number of seats in national parliaments,Djibouti,2021,65,NUMBER
+Current number of seats in national parliaments,Djibouti,2022,65,NUMBER
+Current number of seats in national parliaments,Djibouti,2023,65,NUMBER
+Current number of seats in national parliaments,Gabon,2021,142,NUMBER
+Current number of seats in national parliaments,Gabon,2022,143,NUMBER
+Current number of seats in national parliaments,Gabon,2023,143,NUMBER
+Current number of seats in national parliaments,Georgia,2021,150,NUMBER
+Current number of seats in national parliaments,Georgia,2022,147,NUMBER
+Current number of seats in national parliaments,Georgia,2023,141,NUMBER
+Current number of seats in national parliaments,Gambia,2021,58,NUMBER
+Current number of seats in national parliaments,Gambia,2022,58,NUMBER
+Current number of seats in national parliaments,Gambia,2023,58,NUMBER
+Current number of seats in national parliaments,Germany,2021,709,NUMBER
+Current number of seats in national parliaments,Germany,2022,736,NUMBER
+Current number of seats in national parliaments,Germany,2023,736,NUMBER
+Current number of seats in national parliaments,Ghana,2021,275,NUMBER
+Current number of seats in national parliaments,Ghana,2022,275,NUMBER
+Current number of seats in national parliaments,Ghana,2023,275,NUMBER
+Current number of seats in national parliaments,Kiribati,2021,45,NUMBER
+Current number of seats in national parliaments,Kiribati,2022,45,NUMBER
+Current number of seats in national parliaments,Kiribati,2023,45,NUMBER
+Current number of seats in national parliaments,Greece,2021,300,NUMBER
+Current number of seats in national parliaments,Greece,2022,300,NUMBER
+Current number of seats in national parliaments,Greece,2023,300,NUMBER
+Current number of seats in national parliaments,Grenada,2021,15,NUMBER
+Current number of seats in national parliaments,Grenada,2022,15,NUMBER
+Current number of seats in national parliaments,Grenada,2023,16,NUMBER
+Current number of seats in national parliaments,Guatemala,2021,160,NUMBER
+Current number of seats in national parliaments,Guatemala,2022,160,NUMBER
+Current number of seats in national parliaments,Guatemala,2023,160,NUMBER
+Current number of seats in national parliaments,Guinea,2021,114,NUMBER
+Current number of seats in national parliaments,Guinea,2022,81,NUMBER
+Current number of seats in national parliaments,Guinea,2023,81,NUMBER
+Current number of seats in national parliaments,Guyana,2021,70,NUMBER
+Current number of seats in national parliaments,Guyana,2022,70,NUMBER
+Current number of seats in national parliaments,Guyana,2023,71,NUMBER
+Current number of seats in national parliaments,Haiti,2021,0,NUMBER
+Current number of seats in national parliaments,Haiti,2022,,NUMBER
+Current number of seats in national parliaments,Haiti,2023,,NUMBER
+Current number of seats in national parliaments,Honduras,2021,128,NUMBER
+Current number of seats in national parliaments,Honduras,2022,128,NUMBER
+Current number of seats in national parliaments,Honduras,2023,128,NUMBER
+Current number of seats in national parliaments,Hungary,2021,199,NUMBER
+Current number of seats in national parliaments,Hungary,2022,199,NUMBER
+Current number of seats in national parliaments,Hungary,2023,199,NUMBER
+Current number of seats in national parliaments,Iceland,2021,63,NUMBER
+Current number of seats in national parliaments,Iceland,2022,63,NUMBER
+Current number of seats in national parliaments,Iceland,2023,63,NUMBER
+Current number of seats in national parliaments,India,2021,540,NUMBER
+Current number of seats in national parliaments,India,2022,542,NUMBER
+Current number of seats in national parliaments,India,2023,542,NUMBER
+Current number of seats in national parliaments,Indonesia,2021,575,NUMBER
+Current number of seats in national parliaments,Indonesia,2022,575,NUMBER
+Current number of seats in national parliaments,Indonesia,2023,575,NUMBER
+Current number of seats in national parliaments,Iran ,2021,286,NUMBER
+Current number of seats in national parliaments,Iran ,2022,286,NUMBER
+Current number of seats in national parliaments,Iran ,2023,286,NUMBER
+Current number of seats in national parliaments,Iraq,2021,329,NUMBER
+Current number of seats in national parliaments,Iraq,2022,329,NUMBER
+Current number of seats in national parliaments,Iraq,2023,329,NUMBER
+Current number of seats in national parliaments,Ireland,2021,160,NUMBER
+Current number of seats in national parliaments,Ireland,2022,160,NUMBER
+Current number of seats in national parliaments,Ireland,2023,160,NUMBER
+Current number of seats in national parliaments,Israel,2021,120,NUMBER
+Current number of seats in national parliaments,Israel,2022,120,NUMBER
+Current number of seats in national parliaments,Israel,2023,120,NUMBER
+Current number of seats in national parliaments,Italy,2021,630,NUMBER
+Current number of seats in national parliaments,Italy,2022,629,NUMBER
+Current number of seats in national parliaments,Italy,2023,400,NUMBER
+Current number of seats in national parliaments,C,2021,255,NUMBER
+Current number of seats in national parliaments,C,2022,254,NUMBER
+Current number of seats in national parliaments,C,2023,255,NUMBER
+Current number of seats in national parliaments,Jamaica,2021,63,NUMBER
+Current number of seats in national parliaments,Jamaica,2022,63,NUMBER
+Current number of seats in national parliaments,Jamaica,2023,63,NUMBER
+Current number of seats in national parliaments,Japan,2021,464,NUMBER
+Current number of seats in national parliaments,Japan,2022,465,NUMBER
+Current number of seats in national parliaments,Japan,2023,462,NUMBER
+Current number of seats in national parliaments,Kazakhstan,2021,107,NUMBER
+Current number of seats in national parliaments,Kazakhstan,2022,106,NUMBER
+Current number of seats in national parliaments,Kazakhstan,2023,106,NUMBER
+Current number of seats in national parliaments,Jordan,2021,130,NUMBER
+Current number of seats in national parliaments,Jordan,2022,130,NUMBER
+Current number of seats in national parliaments,Jordan,2023,130,NUMBER
+Current number of seats in national parliaments,Kenya,2021,347,NUMBER
+Current number of seats in national parliaments,Kenya,2022,350,NUMBER
+Current number of seats in national parliaments,Kenya,2023,348,NUMBER
+Current number of seats in national parliaments,Democratic People,2021,687,NUMBER
+Current number of seats in national parliaments,Democratic People,2022,687,NUMBER
+Current number of seats in national parliaments,Democratic People,2023,687,NUMBER
+Current number of seats in national parliaments,Republic of Korea,2021,300,NUMBER
+Current number of seats in national parliaments,Republic of Korea,2022,295,NUMBER
+Current number of seats in national parliaments,Republic of Korea,2023,299,NUMBER
+Current number of seats in national parliaments,Kuwait,2021,65,NUMBER
+Current number of seats in national parliaments,Kuwait,2022,62,NUMBER
+Current number of seats in national parliaments,Kuwait,2023,64,NUMBER
+Current number of seats in national parliaments,Kyrgyzstan,2021,117,NUMBER
+Current number of seats in national parliaments,Kyrgyzstan,2022,88,NUMBER
+Current number of seats in national parliaments,Kyrgyzstan,2023,90,NUMBER
+Current number of seats in national parliaments,Lao People,2021,149,NUMBER
+Current number of seats in national parliaments,Lao People,2022,164,NUMBER
+Current number of seats in national parliaments,Lao People,2023,164,NUMBER
+Current number of seats in national parliaments,Latin America and the Caribbean,2021,4153,NUMBER
+Current number of seats in national parliaments,Latin America and the Caribbean,2022,3983,NUMBER
+Current number of seats in national parliaments,Latin America and the Caribbean,2023,4004,NUMBER
+Current number of seats in national parliaments,Lebanon,2021,128,NUMBER
+Current number of seats in national parliaments,Lebanon,2022,128,NUMBER
+Current number of seats in national parliaments,Lebanon,2023,128,NUMBER
+Current number of seats in national parliaments,Lesotho,2021,120,NUMBER
+Current number of seats in national parliaments,Lesotho,2022,115,NUMBER
+Current number of seats in national parliaments,Lesotho,2023,121,NUMBER
+Current number of seats in national parliaments,Latvia,2021,100,NUMBER
+Current number of seats in national parliaments,Latvia,2022,100,NUMBER
+Current number of seats in national parliaments,Latvia,2023,100,NUMBER
+Current number of seats in national parliaments,Liberia,2021,73,NUMBER
+Current number of seats in national parliaments,Liberia,2022,73,NUMBER
+Current number of seats in national parliaments,Liberia,2023,73,NUMBER
+Current number of seats in national parliaments,Landlocked developing countries ,2021,5294,NUMBER
+Current number of seats in national parliaments,Landlocked developing countries ,2022,5281,NUMBER
+Current number of seats in national parliaments,Landlocked developing countries ,2023,5117,NUMBER
+Current number of seats in national parliaments,Libya,2021,188,NUMBER
+Current number of seats in national parliaments,Libya,2022,170,NUMBER
+Current number of seats in national parliaments,Libya,2023,170,NUMBER
+Current number of seats in national parliaments,Liechtenstein,2021,25,NUMBER
+Current number of seats in national parliaments,Liechtenstein,2022,25,NUMBER
+Current number of seats in national parliaments,Liechtenstein,2023,25,NUMBER
+Current number of seats in national parliaments,Lithuania,2021,141,NUMBER
+Current number of seats in national parliaments,Lithuania,2022,141,NUMBER
+Current number of seats in national parliaments,Lithuania,2023,141,NUMBER
+Current number of seats in national parliaments,Luxembourg,2021,60,NUMBER
+Current number of seats in national parliaments,Luxembourg,2022,60,NUMBER
+Current number of seats in national parliaments,Luxembourg,2023,60,NUMBER
+Current number of seats in national parliaments,Madagascar,2021,151,NUMBER
+Current number of seats in national parliaments,Madagascar,2022,151,NUMBER
+Current number of seats in national parliaments,Madagascar,2023,151,NUMBER
+Current number of seats in national parliaments,Malawi,2021,192,NUMBER
+Current number of seats in national parliaments,Malawi,2022,192,NUMBER
+Current number of seats in national parliaments,Malawi,2023,193,NUMBER
+Current number of seats in national parliaments,Malaysia,2021,222,NUMBER
+Current number of seats in national parliaments,Malaysia,2022,220,NUMBER
+Current number of seats in national parliaments,Malaysia,2023,222,NUMBER
+Current number of seats in national parliaments,Maldives,2021,87,NUMBER
+Current number of seats in national parliaments,Maldives,2022,87,NUMBER
+Current number of seats in national parliaments,Maldives,2023,87,NUMBER
+Current number of seats in national parliaments,Mali,2021,121,NUMBER
+Current number of seats in national parliaments,Mali,2022,121,NUMBER
+Current number of seats in national parliaments,Mali,2023,147,NUMBER
+Current number of seats in national parliaments,Malta,2021,67,NUMBER
+Current number of seats in national parliaments,Malta,2022,67,NUMBER
+Current number of seats in national parliaments,Malta,2023,79,NUMBER
+Current number of seats in national parliaments,Mauritania,2021,153,NUMBER
+Current number of seats in national parliaments,Mauritania,2022,153,NUMBER
+Current number of seats in national parliaments,Mauritania,2023,153,NUMBER
+Current number of seats in national parliaments,Mauritius,2021,70,NUMBER
+Current number of seats in national parliaments,Mauritius,2022,70,NUMBER
+Current number of seats in national parliaments,Mauritius,2023,70,NUMBER
+Current number of seats in national parliaments,Mexico,2021,500,NUMBER
+Current number of seats in national parliaments,Mexico,2022,500,NUMBER
+Current number of seats in national parliaments,Mexico,2023,500,NUMBER
+Current number of seats in national parliaments,Western Asia ,2021,2161,NUMBER
+Current number of seats in national parliaments,Western Asia ,2022,2093,NUMBER
+Current number of seats in national parliaments,Monaco,2021,24,NUMBER
+Current number of seats in national parliaments,Monaco,2022,24,NUMBER
+Current number of seats in national parliaments,Monaco,2023,22,NUMBER
+Current number of seats in national parliaments,Mongolia,2021,75,NUMBER
+Current number of seats in national parliaments,Mongolia,2022,76,NUMBER
+Current number of seats in national parliaments,Mongolia,2023,76,NUMBER
+Current number of seats in national parliaments,Republic of Moldova,2021,101,NUMBER
+Current number of seats in national parliaments,Republic of Moldova,2022,101,NUMBER
+Current number of seats in national parliaments,Republic of Moldova,2023,101,NUMBER
+Current number of seats in national parliaments,Montenegro,2021,81,NUMBER
+Current number of seats in national parliaments,Montenegro,2022,81,NUMBER
+Current number of seats in national parliaments,Montenegro,2023,81,NUMBER
+Current number of seats in national parliaments,Morocco,2021,395,NUMBER
+Current number of seats in national parliaments,Morocco,2022,395,NUMBER
+Current number of seats in national parliaments,Morocco,2023,395,NUMBER
+Current number of seats in national parliaments,Mozambique,2021,250,NUMBER
+Current number of seats in national parliaments,Mozambique,2022,250,NUMBER
+Current number of seats in national parliaments,Mozambique,2023,250,NUMBER
+Current number of seats in national parliaments,Oman,2021,86,NUMBER
+Current number of seats in national parliaments,Oman,2022,86,NUMBER
+Current number of seats in national parliaments,Oman,2023,86,NUMBER
+Current number of seats in national parliaments,Europe and Northern America,2021,10141,NUMBER
+Current number of seats in national parliaments,Europe and Northern America,2022,10187,NUMBER
+Current number of seats in national parliaments,Europe and Northern America,2023,9959,NUMBER
+Current number of seats in national parliaments,Developed regions ,2021,11052,NUMBER
+Current number of seats in national parliaments,Developed regions ,2022,11099,NUMBER
+Current number of seats in national parliaments,Developed regions ,2023,10868,NUMBER
+Current number of seats in national parliaments,Developing regions,2021,27680,NUMBER
+Current number of seats in national parliaments,Developing regions,2022,27336,NUMBER
+Current number of seats in national parliaments,Developing regions,2023,26555,NUMBER
+Current number of seats in national parliaments,Namibia,2021,104,NUMBER
+Current number of seats in national parliaments,Namibia,2022,104,NUMBER
+Current number of seats in national parliaments,Namibia,2023,104,NUMBER
+Current number of seats in national parliaments,Eastern Asia ,2021,4037,NUMBER
+Current number of seats in national parliaments,Eastern Asia ,2022,4033,NUMBER
+Current number of seats in national parliaments,Nauru,2021,19,NUMBER
+Current number of seats in national parliaments,Nauru,2022,19,NUMBER
+Current number of seats in national parliaments,Nauru,2023,19,NUMBER
+Current number of seats in national parliaments,Nepal,2021,275,NUMBER
+Current number of seats in national parliaments,Nepal,2022,271,NUMBER
+Current number of seats in national parliaments,Nepal,2023,275,NUMBER
+Current number of seats in national parliaments,Netherlands ,2021,150,NUMBER
+Current number of seats in national parliaments,Netherlands ,2022,150,NUMBER
+Current number of seats in national parliaments,Netherlands ,2023,150,NUMBER
+Current number of seats in national parliaments,Oceania ,2021,484,NUMBER
+Current number of seats in national parliaments,Oceania ,2022,485,NUMBER
+Current number of seats in national parliaments,Oceania ,2023,497,NUMBER
+Current number of seats in national parliaments,Vanuatu,2021,52,NUMBER
+Current number of seats in national parliaments,Vanuatu,2022,52,NUMBER
+Current number of seats in national parliaments,Vanuatu,2023,52,NUMBER
+Current number of seats in national parliaments,New Zealand,2021,120,NUMBER
+Current number of seats in national parliaments,New Zealand,2022,120,NUMBER
+Current number of seats in national parliaments,New Zealand,2023,120,NUMBER
+Current number of seats in national parliaments,Nicaragua,2021,91,NUMBER
+Current number of seats in national parliaments,Nicaragua,2022,91,NUMBER
+Current number of seats in national parliaments,Nicaragua,2023,91,NUMBER
+Current number of seats in national parliaments,Niger,2021,166,NUMBER
+Current number of seats in national parliaments,Niger,2022,166,NUMBER
+Current number of seats in national parliaments,Niger,2023,166,NUMBER
+Current number of seats in national parliaments,Nigeria,2021,360,NUMBER
+Current number of seats in national parliaments,Nigeria,2022,360,NUMBER
+Current number of seats in national parliaments,Nigeria,2023,360,NUMBER
+Current number of seats in national parliaments,Norway,2021,169,NUMBER
+Current number of seats in national parliaments,Norway,2022,169,NUMBER
+Current number of seats in national parliaments,Norway,2023,169,NUMBER
+Current number of seats in national parliaments,Micronesia ,2021,14,NUMBER
+Current number of seats in national parliaments,Micronesia ,2022,14,NUMBER
+Current number of seats in national parliaments,Micronesia ,2023,14,NUMBER
+Current number of seats in national parliaments,Marshall Islands,2021,33,NUMBER
+Current number of seats in national parliaments,Marshall Islands,2022,33,NUMBER
+Current number of seats in national parliaments,Marshall Islands,2023,33,NUMBER
+Current number of seats in national parliaments,Palau,2021,16,NUMBER
+Current number of seats in national parliaments,Palau,2022,16,NUMBER
+Current number of seats in national parliaments,Palau,2023,16,NUMBER
+Current number of seats in national parliaments,Pakistan,2021,342,NUMBER
+Current number of seats in national parliaments,Pakistan,2022,342,NUMBER
+Current number of seats in national parliaments,Pakistan,2023,342,NUMBER
+Current number of seats in national parliaments,Panama,2021,71,NUMBER
+Current number of seats in national parliaments,Panama,2022,71,NUMBER
+Current number of seats in national parliaments,Panama,2023,71,NUMBER
+Current number of seats in national parliaments,Papua New Guinea,2021,111,NUMBER
+Current number of seats in national parliaments,Papua New Guinea,2022,111,NUMBER
+Current number of seats in national parliaments,Papua New Guinea,2023,115,NUMBER
+Current number of seats in national parliaments,Paraguay,2021,80,NUMBER
+Current number of seats in national parliaments,Paraguay,2022,80,NUMBER
+Current number of seats in national parliaments,Paraguay,2023,80,NUMBER
+Current number of seats in national parliaments,Peru,2021,130,NUMBER
+Current number of seats in national parliaments,Peru,2022,130,NUMBER
+Current number of seats in national parliaments,Peru,2023,129,NUMBER
+Current number of seats in national parliaments,Philippines,2021,304,NUMBER
+Current number of seats in national parliaments,Philippines,2022,307,NUMBER
+Current number of seats in national parliaments,Philippines,2023,311,NUMBER
+Current number of seats in national parliaments,Poland,2021,459,NUMBER
+Current number of seats in national parliaments,Poland,2022,460,NUMBER
+Current number of seats in national parliaments,Poland,2023,460,NUMBER
+Current number of seats in national parliaments,Portugal,2021,230,NUMBER
+Current number of seats in national parliaments,Portugal,2022,230,NUMBER
+Current number of seats in national parliaments,Portugal,2023,230,NUMBER
+Current number of seats in national parliaments,Guinea,2021,102,NUMBER
+Current number of seats in national parliaments,Guinea,2022,102,NUMBER
+Current number of seats in national parliaments,Guinea,2023,102,NUMBER
+Current number of seats in national parliaments,Timor,2021,65,NUMBER
+Current number of seats in national parliaments,Timor,2022,65,NUMBER
+Current number of seats in national parliaments,Timor,2023,65,NUMBER
+Current number of seats in national parliaments,Qatar,2021,41,NUMBER
+Current number of seats in national parliaments,Qatar,2022,45,NUMBER
+Current number of seats in national parliaments,Qatar,2023,45,NUMBER
+Current number of seats in national parliaments,Romania,2021,329,NUMBER
+Current number of seats in national parliaments,Romania,2022,330,NUMBER
+Current number of seats in national parliaments,Romania,2023,330,NUMBER
+Current number of seats in national parliaments,Russian Federation,2021,450,NUMBER
+Current number of seats in national parliaments,Russian Federation,2022,450,NUMBER
+Current number of seats in national parliaments,Russian Federation,2023,450,NUMBER
+Current number of seats in national parliaments,Rwanda,2021,80,NUMBER
+Current number of seats in national parliaments,Rwanda,2022,80,NUMBER
+Current number of seats in national parliaments,Rwanda,2023,80,NUMBER
+Current number of seats in national parliaments,Saint Kitts and Nevis,2021,16,NUMBER
+Current number of seats in national parliaments,Saint Kitts and Nevis,2022,16,NUMBER
+Current number of seats in national parliaments,Saint Kitts and Nevis,2023,16,NUMBER
+Current number of seats in national parliaments,Saint Lucia,2021,18,NUMBER
+Current number of seats in national parliaments,Saint Lucia,2022,18,NUMBER
+Current number of seats in national parliaments,Saint Lucia,2023,18,NUMBER
+Current number of seats in national parliaments,Saint Vincent and the Grenadines,2021,22,NUMBER
+Current number of seats in national parliaments,Saint Vincent and the Grenadines,2022,22,NUMBER
+Current number of seats in national parliaments,Saint Vincent and the Grenadines,2023,22,NUMBER
+Current number of seats in national parliaments,San Marino,2021,60,NUMBER
+Current number of seats in national parliaments,San Marino,2022,60,NUMBER
+Current number of seats in national parliaments,San Marino,2023,60,NUMBER
+Current number of seats in national parliaments,Sao Tome and Principe,2021,55,NUMBER
+Current number of seats in national parliaments,Sao Tome and Principe,2022,55,NUMBER
+Current number of seats in national parliaments,Sao Tome and Principe,2023,55,NUMBER
+Current number of seats in national parliaments,Saudi Arabia,2021,151,NUMBER
+Current number of seats in national parliaments,Saudi Arabia,2022,151,NUMBER
+Current number of seats in national parliaments,Saudi Arabia,2023,151,NUMBER
+Current number of seats in national parliaments,Senegal,2021,165,NUMBER
+Current number of seats in national parliaments,Senegal,2022,164,NUMBER
+Current number of seats in national parliaments,Senegal,2023,165,NUMBER
+Current number of seats in national parliaments,Serbia,2021,250,NUMBER
+Current number of seats in national parliaments,Serbia,2022,250,NUMBER
+Current number of seats in national parliaments,Serbia,2023,250,NUMBER
+Current number of seats in national parliaments,Seychelles,2021,35,NUMBER
+Current number of seats in national parliaments,Seychelles,2022,35,NUMBER
+Current number of seats in national parliaments,Seychelles,2023,35,NUMBER
+Current number of seats in national parliaments,Sierra Leone,2021,146,NUMBER
+Current number of seats in national parliaments,Sierra Leone,2022,146,NUMBER
+Current number of seats in national parliaments,Sierra Leone,2023,146,NUMBER
+Current number of seats in national parliaments,Singapore,2021,95,NUMBER
+Current number of seats in national parliaments,Singapore,2022,103,NUMBER
+Current number of seats in national parliaments,Singapore,2023,103,NUMBER
+Current number of seats in national parliaments,Slovakia,2021,150,NUMBER
+Current number of seats in national parliaments,Slovakia,2022,150,NUMBER
+Current number of seats in national parliaments,Slovakia,2023,150,NUMBER
+Current number of seats in national parliaments,Viet Nam,2021,494,NUMBER
+Current number of seats in national parliaments,Viet Nam,2022,499,NUMBER
+Current number of seats in national parliaments,Viet Nam,2023,499,NUMBER
+Current number of seats in national parliaments,Slovenia,2021,90,NUMBER
+Current number of seats in national parliaments,Slovenia,2022,90,NUMBER
+Current number of seats in national parliaments,Slovenia,2023,90,NUMBER
+Current number of seats in national parliaments,Somalia,2021,275,NUMBER
+Current number of seats in national parliaments,Somalia,2022,275,NUMBER
+Current number of seats in national parliaments,Somalia,2023,274,NUMBER
+Current number of seats in national parliaments,South Africa,2021,399,NUMBER
+Current number of seats in national parliaments,South Africa,2022,396,NUMBER
+Current number of seats in national parliaments,South Africa,2023,400,NUMBER
+Current number of seats in national parliaments,Zimbabwe,2021,270,NUMBER
+Current number of seats in national parliaments,Zimbabwe,2022,265,NUMBER
+Current number of seats in national parliaments,Zimbabwe,2023,265,NUMBER
+Current number of seats in national parliaments,Small island developing States ,2021,2313,NUMBER
+Current number of seats in national parliaments,Small island developing States ,2022,2322,NUMBER
+Current number of seats in national parliaments,Small island developing States ,2023,2336,NUMBER
+Current number of seats in national parliaments,Spain,2021,350,NUMBER
+Current number of seats in national parliaments,Spain,2022,349,NUMBER
+Current number of seats in national parliaments,Spain,2023,349,NUMBER
+Current number of seats in national parliaments,South Sudan,2021,383,NUMBER
+Current number of seats in national parliaments,South Sudan,2022,550,NUMBER
+Current number of seats in national parliaments,South Sudan,2023,550,NUMBER
+Current number of seats in national parliaments,Sudan,2022,,NUMBER
+Current number of seats in national parliaments,Sudan,2023,,NUMBER
+Current number of seats in national parliaments,Sub,2021,8657,NUMBER
+Current number of seats in national parliaments,Sub,2022,8668,NUMBER
+Current number of seats in national parliaments,Suriname,2021,51,NUMBER
+Current number of seats in national parliaments,Suriname,2022,51,NUMBER
+Current number of seats in national parliaments,Suriname,2023,51,NUMBER
+Current number of seats in national parliaments,Northern Africa ,2021,1853,NUMBER
+Current number of seats in national parliaments,Northern Africa ,2022,1781,NUMBER
+Current number of seats in national parliaments,Northern Africa and Western Asia,2021,4593,NUMBER
+Current number of seats in national parliaments,Northern Africa and Western Asia,2022,4424,NUMBER
+Current number of seats in national parliaments,Northern Africa and Western Asia,2023,4194,NUMBER
+Current number of seats in national parliaments,Eswatini,2021,73,NUMBER
+Current number of seats in national parliaments,Eswatini,2022,74,NUMBER
+Current number of seats in national parliaments,Eswatini,2023,74,NUMBER
+Current number of seats in national parliaments,Sweden,2021,349,NUMBER
+Current number of seats in national parliaments,Sweden,2022,349,NUMBER
+Current number of seats in national parliaments,Sweden,2023,349,NUMBER
+Current number of seats in national parliaments,Eastern and South,2021,7477,NUMBER
+Current number of seats in national parliaments,Eastern and South,2022,7503,NUMBER
+Current number of seats in national parliaments,Eastern and South,2023,7042,NUMBER
+Current number of seats in national parliaments,Switzerland,2021,200,NUMBER
+Current number of seats in national parliaments,Switzerland,2022,200,NUMBER
+Current number of seats in national parliaments,Switzerland,2023,199,NUMBER
+Current number of seats in national parliaments,Syrian Arab Republic,2021,250,NUMBER
+Current number of seats in national parliaments,Syrian Arab Republic,2022,250,NUMBER
+Current number of seats in national parliaments,Syrian Arab Republic,2023,250,NUMBER
+Current number of seats in national parliaments,Tajikistan,2021,63,NUMBER
+Current number of seats in national parliaments,Tajikistan,2022,63,NUMBER
+Current number of seats in national parliaments,Tajikistan,2023,63,NUMBER
+Current number of seats in national parliaments,Thailand,2021,489,NUMBER
+Current number of seats in national parliaments,Thailand,2022,489,NUMBER
+Current number of seats in national parliaments,Thailand,2023,445,NUMBER
+Current number of seats in national parliaments,Togo,2021,91,NUMBER
+Current number of seats in national parliaments,Togo,2022,91,NUMBER
+Current number of seats in national parliaments,Togo,2023,91,NUMBER
+Current number of seats in national parliaments,Tonga,2021,27,NUMBER
+Current number of seats in national parliaments,Tonga,2022,27,NUMBER
+Current number of seats in national parliaments,Tonga,2023,28,NUMBER
+Current number of seats in national parliaments,Trinidad and Tobago,2021,42,NUMBER
+Current number of seats in national parliaments,Trinidad and Tobago,2022,42,NUMBER
+Current number of seats in national parliaments,Trinidad and Tobago,2023,42,NUMBER
+Current number of seats in national parliaments,United Arab Emirates,2021,40,NUMBER
+Current number of seats in national parliaments,United Arab Emirates,2022,40,NUMBER
+Current number of seats in national parliaments,United Arab Emirates,2023,40,NUMBER
+Current number of seats in national parliaments,Tunisia,2021,217,NUMBER
+Current number of seats in national parliaments,Tunisia,2022,217,NUMBER
+Current number of seats in national parliaments,Tunisia,2023,,NUMBER
+Current number of seats in national parliaments,T,2021,600,NUMBER
+Current number of seats in national parliaments,T,2022,582,NUMBER
+Current number of seats in national parliaments,T,2023,580,NUMBER
+Current number of seats in national parliaments,Turkmenistan,2021,124,NUMBER
+Current number of seats in national parliaments,Turkmenistan,2022,116,NUMBER
+Current number of seats in national parliaments,Turkmenistan,2023,116,NUMBER
+Current number of seats in national parliaments,Tuvalu,2021,16,NUMBER
+Current number of seats in national parliaments,Tuvalu,2022,16,NUMBER
+Current number of seats in national parliaments,Tuvalu,2023,16,NUMBER
+Current number of seats in national parliaments,Uganda,2021,528,NUMBER
+Current number of seats in national parliaments,Uganda,2022,556,NUMBER
+Current number of seats in national parliaments,Uganda,2023,556,NUMBER
+Current number of seats in national parliaments,Ukraine,2021,423,NUMBER
+Current number of seats in national parliaments,Ukraine,2022,423,NUMBER
+Current number of seats in national parliaments,Ukraine,2023,416,NUMBER
+Current number of seats in national parliaments,North Macedonia,2021,120,NUMBER
+Current number of seats in national parliaments,North Macedonia,2022,120,NUMBER
+Current number of seats in national parliaments,North Macedonia,2023,120,NUMBER
+Current number of seats in national parliaments,Egypt,2021,591,NUMBER
+Current number of seats in national parliaments,Egypt,2022,592,NUMBER
+Current number of seats in national parliaments,Egypt,2023,592,NUMBER
+Current number of seats in national parliaments,United Kingdom of Great Britain and Northern Ireland,2021,650,NUMBER
+Current number of seats in national parliaments,United Kingdom of Great Britain and Northern Ireland,2022,649,NUMBER
+Current number of seats in national parliaments,United Kingdom of Great Britain and Northern Ireland,2023,649,NUMBER
+Current number of seats in national parliaments,United Republic of Tanzania,2021,384,NUMBER
+Current number of seats in national parliaments,United Republic of Tanzania,2022,388,NUMBER
+Current number of seats in national parliaments,United Republic of Tanzania,2023,393,NUMBER
+Current number of seats in national parliaments,United States of America,2021,431,NUMBER
+Current number of seats in national parliaments,United States of America,2022,433,NUMBER
+Current number of seats in national parliaments,United States of America,2023,434,NUMBER
+Current number of seats in national parliaments,Burkina Faso,2021,127,NUMBER
+Current number of seats in national parliaments,Burkina Faso,2022,127,NUMBER
+Current number of seats in national parliaments,Burkina Faso,2023,71,NUMBER
+Current number of seats in national parliaments,Uruguay,2021,99,NUMBER
+Current number of seats in national parliaments,Uruguay,2022,99,NUMBER
+Current number of seats in national parliaments,Uruguay,2023,99,NUMBER
+Current number of seats in national parliaments,Uzbekistan,2021,147,NUMBER
+Current number of seats in national parliaments,Uzbekistan,2022,144,NUMBER
+Current number of seats in national parliaments,Uzbekistan,2023,140,NUMBER
+Current number of seats in national parliaments,Venezuela ,2021,167,NUMBER
+Current number of seats in national parliaments,Venezuela ,2022,,NUMBER
+Current number of seats in national parliaments,Venezuela ,2023,,NUMBER
+Current number of seats in national parliaments,Samoa,2021,50,NUMBER
+Current number of seats in national parliaments,Samoa,2022,51,NUMBER
+Current number of seats in national parliaments,Samoa,2023,54,NUMBER
+Current number of seats in national parliaments,Yemen,2021,301,NUMBER
+Current number of seats in national parliaments,Yemen,2022,250,NUMBER
+Current number of seats in national parliaments,Yemen,2023,245,NUMBER
+Current number of seats in national parliaments,Zambia,2021,167,NUMBER
+Current number of seats in national parliaments,Zambia,2022,166,NUMBER
+Current number of seats in national parliaments,Zambia,2023,167,NUMBER
