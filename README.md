@@ -82,19 +82,19 @@ Contribuições para melhorias e novas funcionalidades neste projeto são bem-vi
 ```
 git checkout -b nome-da-sua-funcionalidade
 ```
-
 3. Realize suas alterações e faça commits explicativos:
 
 ```
 git commit -m "Descrição das alterações"
 ```
-
 4. Envie seu branch para o repositório remoto:
 
 ```
 git push origin nome-da-sua-funcionalidade
 ```
-
 5. Abra um pull request no repositório original descrevendo suas alterações.
 
+# Contato
+https://www.linkedin.com/in/-carlos-reis/
+https://github.com/carlosferreirareis  
 ---
